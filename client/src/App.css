@@ -1,0 +1,37 @@
+
+
+#container{
+  margin:0px auto;
+  width:960px;
+  
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+  margin-top: 30px;
+  
+}
+.table{
+  margin: 0px auto;
+  background-color: #3AA6B9;
+}
+.table2{
+  margin: 0px auto;
+  background-color: #5C8984;
+}
+
+.register {
+  width: 400px;
+  margin: 0px auto;
+  background-color: #3AA6B9;
+  border: 4px solid black;
+  margin:20px;
+  color: black;
+}
+.oneProduct {
+  width: 400px;
+  margin: 0px auto;
+  background-color: #62e8ef;
+  border: 4px solid black;
+  margin:20px;
+  color: black;
+}
